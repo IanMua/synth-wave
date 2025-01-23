@@ -1,0 +1,6 @@
+@SynthWave_HostAddress = http://localhost:5157
+
+GET {{SynthWave_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
